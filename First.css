@@ -1,0 +1,45 @@
+body{
+    background:green;
+    }
+.loginbox{background: white;
+    width: 400px;
+    padding: 50px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow:0px 0px 50px 0px red;
+}
+
+.loginbox input{width: 90%; display: block; padding: 20px; margin-bottom: 30px ; outline: none;
+ border: none; background: #ddd; padding-left: 20px; font-size:20px
+}
+
+.b{text-align: center;
+}
+
+.a{background:linear-gradient(green,red) !important; color: white; width: 100% !important;
+cursor: pointer;
+}
+
+.a:hover{background:linear-gradient(red,green) !important; color: white; width: 100% !important;}
+
+.b{color: #72787E;
+}
+
+.b a{color: red;
+}
+.c{text-transform: uppercase;
+text-shadow: 4px 3px 9px red;
+text-align: center;
+font-family: arial black;
+font-size: 40px;
+margin: 0px;
+
+}
+.loginbox:hover{
+    transform: scale(1.4);
+}
+
+.a{background: url(google.com);
+
+}
